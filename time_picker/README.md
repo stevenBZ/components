@@ -3,14 +3,19 @@
 使用方法:
 
 1.引入jquery
+
 2.引入fontawesome文件
+
 3.引入脚本文件borain-timeChoice.js和样式文件css/borain-timeChoice.css
-4.在HTML文本中使用input标签，设定class
+
+4.在HTML文本中使用input标签，定义class
+
 如:
 ```
 <input class="start" type="text" value="" />
 ```
 5.在脚本中调用onLoadTimeChoiceDemo()创建日历结构
+
 6.调用 
 ```
 borainTimeChoice({

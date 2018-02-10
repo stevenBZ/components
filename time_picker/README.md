@@ -36,3 +36,4 @@ borainTimeChoice({
 |less|less表示是否不可小于当前时间|
 
 使用例子参见index.html
+效果展示:https://stevenbz.github.io/components/time_picker/
